@@ -40,11 +40,6 @@ export const SETUP_ERROR_LOADING_PLAYLIST = 102000;
 export const ERROR_LOADING_PLAYLIST = 202000;
 
 /**
- * @enum {ErrorCode} Setup failed because the playlist failed to load
- */
-export const SETUP_ERROR_LOADING_PLAYLIST = 102000;
-
-/**
  * @enum {ErrorCode} Setup failed because the initial provider failed to load
  */
 export const SETUP_ERROR_LOADING_PROVIDER = 104000;
