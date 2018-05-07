@@ -446,6 +446,7 @@ describe('ProgramController', function () {
                     });
             });
         });
+    });
 });
 
 function expectAllEventsTriggered(callbackSpy) {
